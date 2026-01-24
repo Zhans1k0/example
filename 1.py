@@ -1,3 +1,5 @@
 print("kjfdns")
 
-name = "my name"
+name = "Zhans"
+
+age = 10

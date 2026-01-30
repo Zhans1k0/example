@@ -1,5 +1,1 @@
-print("kjfdns")
-
-name = "Zhans"
-
-age = 10
+print("Hello, my dear ex")
